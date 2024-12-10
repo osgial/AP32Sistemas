@@ -4,3 +4,4 @@ head / tail / sort / sed
 2. cat el_quijote.txt | grep -i -v -c "quijote"
 3. git grep -i -o -c "quijote"
 4. git grep -i -v -c "quijote"
+5. sed 's/panza/barriga/gi' el_quijote.txt
