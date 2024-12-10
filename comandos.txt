@@ -3,3 +3,4 @@ head / tail / sort / sed
 1. cat el_quijote.txt | grep -i -o -c "quijote"
 2. cat el_quijote.txt | grep -i -v -c "quijote"
 3. git grep -i -o -c "quijote"
+4. git grep -i -v -c "quijote"
