@@ -1,3 +1,4 @@
 head / tail / sort / sed
 
 1. cat el_quijote.txt | grep -i -o "quijote" | nl
+2. cat el_quijote.txt | grep -i -v "quijote" | nl
